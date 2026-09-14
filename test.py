@@ -7,6 +7,6 @@ add(1, 4)
 
 
 def sub(x, y):
-    return add(-x, y)
+    return add(x, -y)
 
 sub(1, 3)
